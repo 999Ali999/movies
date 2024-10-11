@@ -1,7 +1,7 @@
 import "./App.css";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
-import MoviesGrid from "./components/moviesGrid";
+import MoviesGrid from "./components/MoviesGrid";
 import "./styles.css";
 
 function App() {
